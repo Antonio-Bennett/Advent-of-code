@@ -37,7 +37,7 @@ mod tests {
     #[test]
     fn day_03() {
         assert_eq!(
-            0,
+            3985686,
             day_03::part_a(include_str!("../inputs/day_03/input.txt")).unwrap()
         );
     }
